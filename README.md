@@ -1,2 +1,2 @@
-# day3
+# Day3
 python program
